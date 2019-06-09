@@ -1,5 +1,12 @@
+# Tech Interview Club Meeting Problems 06/06/19
+# Overview: Easy / Medium Array Manipulation
+
+
+# WARMUP PROBLEM:
 # Given a sequence of consecutive integers, find the sum of all numbers
 
+
+# PROBLEM 1:
 # Say that a "clump" in an array is a series of 2 or more adjacent elements of the same value.
 # Return the number of clumps in the given array.
 
@@ -8,6 +15,7 @@
 # countClumps([1, 1, 1, 1, 1]) → 1
 
 
+# PROBLEM 2:
 # Return an array that contains exactly the same numbers as the given array, but rearranged
 # so that every 3 is immediately followed by a 4.
 # Do not move the 3's, but every other number may move.
@@ -19,6 +27,7 @@
 # fix34([3, 2, 2, 4]) → [3, 4, 2, 2]
 
 
+# PROBLEM 3:
 # Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 # Input: [1,2,3,4,5,6,7] and k = 3
