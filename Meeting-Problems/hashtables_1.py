@@ -19,6 +19,9 @@
 
 # nums = [2,3,1,5,7], target = 6. Function should return [2,3,1]
 
+# Your Solution
+# ...
+
 
 
 
@@ -29,6 +32,14 @@
 # Your Solution
 # ...
 
+
+
+# PART 4
+# Hash Tables Ransom Note
+# https://www.hackerrank.com/challenges/ctci-ransom-note/problem#
+
+# Your Solution
+# ...
 
 
 
